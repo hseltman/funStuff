@@ -1,0 +1,48 @@
+"","id","age","race","hispanic","gender","WMC","treatment","speed","success"
+"1","I003",27,NA,FALSE,"F",50.6,"control",NA,NA
+"2","N082",25,NA,FALSE,"F",35.4,"pep talk",NA,NA
+"3","V070",21,NA,FALSE,"M",26.9,"pep talk",NA,NA
+"4","Z022",23,NA,FALSE,"M",39.8,"control",NA,NA
+"5","W056",29,NA,FALSE,"M",34,"manual",NA,NA
+"6","M037",22,"Asian",FALSE,"F",33.1,"pep talk",12.832,TRUE
+"7","V003",25,"Asian",FALSE,"F",26.8,"pep talk",8.095,FALSE
+"8","P000",22,"Other",FALSE,"F",30.7,"control",7.819,FALSE
+"9","K074",30,"AA",FALSE,"F",38.8,"manual",9.449,FALSE
+"10","Z073",25,"White",FALSE,"F",33.9,"manual",9.616,FALSE
+"11","G045",22,"AA",FALSE,"M",36.7,"control",10.836,TRUE
+"12","T004",23,"Asian",FALSE,"M",24.3,"pep talk",7.628,FALSE
+"13","O065",24,"White",FALSE,"M",31.2,"manual",6.886,FALSE
+"14","S098",26,"White",FALSE,"F",33.9,"manual",9.136,FALSE
+"15","O093",24,"White",FALSE,"F",31,"control",7.873,FALSE
+"16","P014",28,"White",FALSE,"F",35.8,"pep talk",10.612,TRUE
+"17","F066",29,"Other",FALSE,"F",34.2,"control",7.946,FALSE
+"18","B013",23,"White",TRUE,"F",34.9,"pep talk",11.411,TRUE
+"19","Z083",30,"White",TRUE,"M",34.4,"manual",9.292,FALSE
+"20","U056",23,"White",FALSE,"F",37.6,"control",9.996,TRUE
+"21","B090",26,"Asian",FALSE,"M",21.2,"control",5.574,FALSE
+"22","E095",25,"White",FALSE,"M",21.9,"manual",3.794,FALSE
+"23","M077",21,"Asian",FALSE,"F",32,"manual",13.639,TRUE
+"24","B032",29,"White",FALSE,"F",30.4,"control",7.139,FALSE
+"25","Q027",26,"AA",FALSE,"M",34.3,"control",9.503,FALSE
+"26","X044",25,"AA",FALSE,"M",29.6,"manual",7.976,FALSE
+"27","H022",24,"AA",FALSE,"F",34.6,"manual",8.5,FALSE
+"28","S063",23,"AA",FALSE,"F",28.8,"pep talk",5.482,FALSE
+"29","E049",26,"AA",FALSE,"F",39.5,"control",11.087,TRUE
+"30","N048",26,"White",FALSE,"M",23.8,"manual",3.295,FALSE
+"31","O093",28,"White",TRUE,"F",35,"control",10.434,TRUE
+"32","D015",22,"White",FALSE,"F",34.7,"control",7.899,FALSE
+"33","X017",24,"White",FALSE,"F",33.3,"control",8.722,FALSE
+"34","I091",21,"AA",FALSE,"M",37.8,"manual",9.853,FALSE
+"35","C053",28,"White",FALSE,"F",33.3,"pep talk",9.372,FALSE
+"36","Y057",28,"Asian",FALSE,"F",41.1,"control",15.504,TRUE
+"37","U054",28,"White",FALSE,"F",30.9,"control",8.509,FALSE
+"38","A070",26,"Other",FALSE,"F",35.4,"pep talk",9.162,FALSE
+"39","G022",20,"Other",FALSE,"F",30,"pep talk",8.321,FALSE
+"40","U058",22,"White",FALSE,"F",34.1,"control",9.413,FALSE
+"41","W026",29,"Asian",FALSE,"F",39.2,"control",16.424,TRUE
+"42","U027",23,"Other",FALSE,"F",32.7,"control",9.864,FALSE
+"43","I097",24,"Asian",FALSE,"F",35.2,"control",13.243,TRUE
+"44","L095",23,"White",TRUE,"M",21,"control",3.448,FALSE
+"45","T003",25,"Asian",FALSE,"M",33,"control",14.672,TRUE
+"46","H051",20,"White",FALSE,"M",45,"pep talk",14.449,TRUE
+"47","R072",22,"Other",FALSE,"F",38.1,"manual",12.021,TRUE
